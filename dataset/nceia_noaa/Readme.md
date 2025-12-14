@@ -10,5 +10,6 @@ NCEI develops software, APIs, visualization methods, and other services to enhan
 The data is covered under NESDIS/NCEI Open Data policy.
 
 Relevant data for the duration of this project (November, 2023 till July, 2024) is mined from below archive 
-https://www.ncei.noaa.gov/data/global-hourly/archive/csv/2023.tar.gz
-https://www.ncei.noaa.gov/data/global-hourly/archive/csv/2024.tar.gz
+* https://www.ncei.noaa.gov/data/global-hourly/archive/csv/2023.tar.gz
+* https://www.ncei.noaa.gov/data/global-hourly/archive/csv/2024.tar.gz
+
