@@ -1,0 +1,19 @@
+The OpenMesh dataset comprises received signal level (RSL) measurements from over 100 wireless links operated by the NYC Community Mesh network. 
+These opportunistic link observations, captured at one‐minute intervals, enable urban rainfall sensing without dedicated instrumentation.
+
+This dataset is the result of a collaboration between NYC Mesh volunteers, the WiMNet Lab at Columbia University, and the CellEnMon Lab at Tel-Aviv University.
+
+For code, examples, and reproducible analysis, see the OpenMesh GitHub repository: https://github.com/drorjac/OpenMesh
+
+The data is available at https://zenodo.org/records/15268341
+
+Publisher: zenodo
+DOI: https://doi.org/10.5281/zenodo.15268341
+
+Data:
+Jacoby, D. et al. (2025). OpenMesh [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15287692
+
+Paper:
+Jacoby, D. et al. (2025). OpenMesh: Wireless Signal Dataset for Opportunistic Urban Weather Sensing. Earth System Science Data Discussions. https://doi.org/10.5194/essd-2025-238
+
+
