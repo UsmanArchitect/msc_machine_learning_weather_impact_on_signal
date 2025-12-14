@@ -13,3 +13,8 @@ Relevant data for the duration of this project (November, 2023 till July, 2024) 
 * https://www.ncei.noaa.gov/data/global-hourly/archive/csv/2023.tar.gz
 * https://www.ncei.noaa.gov/data/global-hourly/archive/csv/2024.tar.gz
 
+The archive from NCEI is preprocessed for this project and available at
+https://www.kaggle.com/datasets/architectusman/new-york-weather-dataset-for-the-year-2023-2024
+
+The data contains 1.1 million records from 2023 and 1.1 million records from 2024 for New York City weather station near Lower Manhattan and Brooklyn
+
